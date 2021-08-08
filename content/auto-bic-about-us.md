@@ -1,7 +1,7 @@
 +++
 date = ""
 layout = "blocks"
-title = "Auto Bic - About US"
+title = "About"
 [[page_sections]]
 block = "header-1"
 logo = ""
