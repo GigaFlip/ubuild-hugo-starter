@@ -18,7 +18,7 @@ open_in_new_tab = false
 background_image = "/uploads/logo-1.png"
 block = "hero-2"
 content = ""
-headline = ""
+headline = "Hello! "
 template = "hero-banner-w-image"
 [page_sections.cta]
 enabled = true
