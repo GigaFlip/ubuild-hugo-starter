@@ -24,19 +24,6 @@ link_url = "#"
 link_text = "Team"
 link_url = "#"
 [[page_sections]]
-background_image = "/uploads/2018/06/21/hero-2-bg.png"
-block = "hero-2"
-content = "The tool that allows you to build beautiful sites<br>all inside Forestry's content manager."
-headline = "uBuild <br><strong>design blocks</strong>"
-template = "hero-banner-w-image"
-[page_sections.cta]
-enabled = true
-link_text = "See on GitHub "
-link_url = "https://github.com/forestryio/ubuild-jekyll"
-[page_sections.image]
-alt_text = "Product Shot"
-image = "/uploads/2018/06/21/product-shot-1.png"
-[[page_sections]]
 block = "feature-1"
 content = "Quickly assemble and create custom sites with 16 design blocks for seven different sections."
 headline = "<strong>Swap &amp; Switch<span class=\"light\">&nbsp;</span></strong><span class=\"light\">the Blocks to create sites quickly</span>"
