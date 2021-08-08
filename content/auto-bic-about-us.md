@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "Auto Bic - About US"
 [[page_sections]]
