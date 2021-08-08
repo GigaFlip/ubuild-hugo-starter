@@ -4,7 +4,7 @@ layout = "blocks"
 title = "About"
 [[page_sections]]
 block = "header-1"
-logo = ""
+logo = "/uploads/jay-elephant-logo-small.jpg"
 template = "navigation-header"
 [[page_sections.navigation]]
 link_text = "About"
