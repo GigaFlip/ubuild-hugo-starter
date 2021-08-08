@@ -15,15 +15,15 @@ link_text = "Home"
 link_url = "/"
 open_in_new_tab = false
 [[page_sections]]
-background_image = ""
+background_image = "/uploads/logo-1.png"
 block = "hero-2"
 content = ""
 headline = ""
 template = "hero-banner-w-image"
 [page_sections.cta]
-enabled = false
-link_text = ""
-link_url = ""
+enabled = true
+link_text = "Example "
+link_url = "example.com"
 open_in_new_tab = false
 [page_sections.image]
 alt_text = ""
