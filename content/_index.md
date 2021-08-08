@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link_url: "/"
     link_text: Home
-  - link_url: "#"
+  - link_url: "#features"
     link_text: Features
   - link_url: "#"
     link_text: Pricing
